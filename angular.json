@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gerenciador-de-tarefas"
+    }
+  },
+  "defaultProject": "gerenciador-de-tarefas",
+  "cli": {
+    "analytics": false
+  }
 }
